@@ -1,0 +1,87 @@
+commit fc2af36ebde8db22e9f3a19578baa6df13947443
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Wed Nov 20 15:50:21 2024 +0000
+
+    Add Practical9 Codes
+
+commit 0ed66cec2e91b347d581a93eecda1d35184c8058
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Sun Nov 17 18:56:15 2024 +0000
+
+    Add Practical8 Codes
+
+commit ef10a7fae8b79e42f21d99c16c58267064169490
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Sun Nov 10 19:35:33 2024 +0000
+
+    Add Practical07 Codes
+
+commit b49263e482e8be23a0847d45ac9d809a4b5bd6b4
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Mon Oct 21 18:01:30 2024 +0100
+
+    Removed Practical3 content from Practical4 branch
+
+commit bf765bda6fc492cf47f14472c86f543fc3f7963f
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Mon Oct 21 17:55:32 2024 +0100
+
+    Add Practical4 Codes
+
+commit d1469086b4a8903ddcec2718a51c1aabb5ea5874
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Sun Oct 13 19:19:39 2024 +0100
+
+    Adding README.md with Git Assignment Project details
+
+commit 9ac007d5021b5bf53e83ec82483cd16764c200e9
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Sun Oct 13 19:17:13 2024 +0100
+
+    Removed Practical2 folder from Practical3 branch
+
+commit cf44cee72c963fb29744d6069952ba91641a2bcb
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Sun Oct 13 19:12:48 2024 +0100
+
+    Updated README.md in Practical3 branch
+
+commit 055dd0670012513ccc860eae7048cc377c13d9d9
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Sun Oct 13 19:07:40 2024 +0100
+
+    Removed TrapezoidalC file from Practical3 branch
+
+commit 129a46f19f5221cb3c6d50b0cd67f28af279e6ef
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Sun Oct 13 19:00:00 2024 +0100
+
+    Add Practical3 Codes
+
+commit 601d59140470a10209c241d392c2e8deb52e6568
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Sun Oct 13 18:35:34 2024 +0100
+
+    Removed README.md
+
+commit 6a02bcfad34f4215f76a3ee4a803a0addbe41cdf
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Sun Oct 6 14:41:56 2024 +0100
+
+    Practical_2 Codes
+
+commit 2c4ba7d06429c1a7b5ca285228cf9cbc5c7b49da
+Author: Tejal Dabhade <tejal.n.dabhade@gmail.com>
+Date:   Sun Oct 6 14:07:28 2024 +0100
+
+    Introduction to Git Assignment
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	Practicalnine/
+	git_output.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
